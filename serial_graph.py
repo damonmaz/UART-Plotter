@@ -5,8 +5,6 @@ Time stamps received numbers separated by \n
 Saves in Dataframe
 Saves in csv
 Plots received data versus time
-
-modified by Damon Mazurek
 """
 
 import numpy as np
