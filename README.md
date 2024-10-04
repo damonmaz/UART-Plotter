@@ -1,2 +1,4 @@
 # UART-Plotter
-Final project made for ENSF 460
+Project made for Embedded Systems Class
+
+Python script would take in potentiometer voltage and continually display value on graph
